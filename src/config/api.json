@@ -1,0 +1,10 @@
+{
+  "APP_API": {
+    "development": {
+      "basePath": "https://dog.ceo/api",
+      "resources": {
+        "randomDogPath": "/breeds/image/random"
+      }
+    }
+  }
+}
